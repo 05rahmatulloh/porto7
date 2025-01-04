@@ -33,7 +33,7 @@
       <div
         id="gambar"
         class="rounded-lg transition-all hover:fil-50 hover:bg-blend-darken duration-300 group hover:bg-opacity-50 justify-center flex items-center transform w-80 h-80"
-        style="background-image: url(/public/foto3.jpg); background-size: cover"
+        style="background-image: url(/foto3.jpg); background-size: cover"
         :class="{
           ' fixed -z-50  opacity-0 scale-0 w-0 h-0': !semua,
           ' opacity-100': semua,
@@ -54,7 +54,7 @@
 
       <div
         class="rounded-lg transition-all hover:fil-50 hover:bg-blend-darken duration-300 group hover:bg-opacity-50 justify-center flex items-center transform bg-cover w-80 h-80"
-        style="background-image: url(/public/foto4.png)"
+        style="background-image: url(/foto4.png)"
         :class="{
           ' fixed -z-50  opacity-0 scale-0 w-0 h-0':
             semua == false && documents == true && projek == false,
@@ -75,7 +75,7 @@
 
       <div
         class="rounded-lg transition-all bg-cover hover:fil-50 hover:bg-blend-darken duration-300 group hover:bg-opacity-50 justify-center flex items-center transform w-80 h-80"
-        style="background-image: url(/public/foto5.jpg)"
+        style="background-image: url(/foto5.jpg)"
         :class="{
           ' fixed -z-50  opacity-0 scale-0 w-0 h-0':
             semua == false && documents == false && projek == true,
