@@ -22,7 +22,7 @@
           <div
             class="h-[400px] w-[350px] ip:h[300px] ip:h[300px] rounded-[20px] bg-cover bg-center m-auto md:w-[500px] md:h-[500px] lg:ml-5 lg:w-full lg:h-full"
             style="
-              background-image: url(/public/profil.jpg);
+              background-image: url(/profil.jpg);
               background-position-y: 9px;
               background-repeat: no-repeat;
             "
