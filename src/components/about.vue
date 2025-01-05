@@ -8,9 +8,8 @@
         </div>
         <div class="py-10">
           <p class="text-black text-xl lg:text-2xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-            molestias similique molestiae eos, esse quam veniam sapiente aliquam
-            sequi reiciendis?
+          Hello!
+Saya Rahmatulloh, seorang Web developer yang berfokus pada pengembangan website. Dengan pengalaman 7 tahun, saya senang membantu menciptakan solusi kreatif dan fungsional yang memberikan dampak nyata. 
           </p>
         </div>
       </div>
