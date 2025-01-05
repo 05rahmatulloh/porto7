@@ -31,9 +31,7 @@ Saya senang mengembangkan solusi yang scalable, efisien, dan user-friendly. Sela
             <div class="w-3/4 mx-3">
               <p class="text-black font-paraf block text-2xl">MAKN ENDE</p>
               <p class="text-black font-paraf block">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, expedita. olore corporis ipsa commodi enim dolor ut
-                omnis ex natus.
+            
               </p>
               <div class="w-3/4 block pt-3">
                 <ul>
@@ -54,9 +52,7 @@ Saya senang mengembangkan solusi yang scalable, efisien, dan user-friendly. Sela
                 UIN Maulana Malik Ibrahim
               </p>
               <p class="text-black font-paraf block">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, expedita. olore corporis ipsa commodi enim dolor ut
-                omnis ex natus.
+              
               </p>
               <div class="w-3/4 block pt-3">
                 <ul>
@@ -94,9 +90,7 @@ Saya senang mengembangkan solusi yang scalable, efisien, dan user-friendly. Sela
                 Web development
               </p>
               <p class="text-black font-paraf block">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, expedita. olore corporis ipsa commodi enim dolor ut
-                omnis ex natus.
+          
               </p>
               <div class="w-3/4 block pt-3">
                 <ul>
@@ -117,9 +111,7 @@ Saya senang mengembangkan solusi yang scalable, efisien, dan user-friendly. Sela
               Designer
               </p>
               <p class="text-black font-paraf block">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Pariatur, expedita. olore corporis ipsa commodi enim dolor ut
-                omnis ex natus.
+     
               </p>
               <div class="w-3/4 block pt-3">
                 <ul>
