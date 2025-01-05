@@ -8,9 +8,9 @@
         </div>
         <div class="py-10">
           <p class="text-black font-paraf text-xl lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-            molestias similique molestiae eos, esse quam veniam sapiente aliquam
-            sequi reiciendis?
+        Saya Rahmatulloh, seorang Web Developer yang berfokus pada pengembangan aplikasi front-end menggunakan Vue.js. Dengan pengalaman dalam membangun aplikasi web interaktif dan responsif, saya memiliki keahlian dalam JavaScript, HTML, CSS, serta integrasi framework modern seperti Tailwind CSS dan Bootstrap.
+
+Saya senang mengembangkan solusi yang scalable, efisien, dan user-friendly. Selain itu, saya memiliki kemampuan untuk bekerja dalam tim maupun secara mandiri untuk menyelesaikan proyek dengan kualitas tinggi. Saat ini, saya terus berusaha meningkatkan keterampilan saya dalam teknologi web terbaru, seperti Vue 3 Composition API, Pinia, dan Vite, untuk memberikan solusi terbaik kepada klien atau perusahaan.
           </p>
         </div>
         <div class="pt-5 pb-10">
