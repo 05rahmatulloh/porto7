@@ -32,8 +32,7 @@ Saya Rahmatulloh, seorang Web developer yang berfokus pada pengembangan website.
             WEB Developer
           </h1>
           <p class="py-2 text-black text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo
-            reprehenderit iure ipsam sint vel saepe dolor nobis cum quia cumque.
+         
           </p>
 
           <div class="flex flex-wrap">
@@ -81,9 +80,7 @@ Saya Rahmatulloh, seorang Web developer yang berfokus pada pengembangan website.
             </p>
           </div>
           <p class="text-black py-2 text-xl">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rdiandae
-            sequi maxime architecto eligendi vitae eveniet provident ea hic
-            voluptates quibusdam!
+        
           </p>
         </div>
         <div class="w-full pt-20 md:flex md:flex-wrap flex flex-wrap lg:w-full">
