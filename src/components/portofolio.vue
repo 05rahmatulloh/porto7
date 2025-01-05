@@ -5,9 +5,7 @@
       <div class="w-40 h-1 bg-sky-400 mt-1 mx-auto"></div>
     </div>
     <p class="text-black font-paraf text-center">
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam pariatur
-      aut expliabo molestiae illum eaque adipisci quos soluta numquam
-      dignissimos.
+     Saya seorang Web Developer yang berfokus pada pengembangan aplikasi front-end menggunakan Vue.js. Dengan keahlian dalam membangun antarmuka pengguna yang modern, interaktif, dan responsif, saya percaya bahwa teknologi dapat menyederhanakan dan meningkatkan pengalaman penggun
     </p>
     <div class="pilih w-full justify-center flex mt-5 gap-2">
       <button @click="semuas">
