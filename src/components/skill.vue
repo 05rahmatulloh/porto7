@@ -8,9 +8,7 @@
         </div>
         <div class="py-10">
           <p class="text-black text-xl lg:text-xl font-paraf">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-            molestias similique molestiae eos, esse quam veniam sapiente aliquam
-            sequi reiciendis?
+   
           </p>
           <!-- <p class="text-black">tess</p> -->
         </div>
