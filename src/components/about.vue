@@ -31,9 +31,7 @@ Saya Rahmatulloh, seorang Web developer yang berfokus pada pengembangan website.
           <h1 class="font-heder font-bold text-2xl text-black py-6">
             WEB Developer
           </h1>
-          <p class="py-2 text-black text-xl">
-         
-          </p>
+        
 
           <div class="flex flex-wrap">
             <p class="block w-full lg:w-1/2 text-black text-xl py-2">
@@ -79,9 +77,7 @@ Saya Rahmatulloh, seorang Web developer yang berfokus pada pengembangan website.
               <span class="font-bold font-heder">Freelance:</span>Availabel
             </p>
           </div>
-          <p class="text-black py-2 text-xl">
-        
-          </p>
+         
         </div>
         <div class="w-full pt-20 md:flex md:flex-wrap flex flex-wrap lg:w-full">
           <div
